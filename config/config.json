@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Valentin1999",
+    "database": "reservas_eventos",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
